@@ -130,7 +130,7 @@ def popular_combo_station(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 ###
-# Function to calculate the total time of a trip
+# Function to calculate = total time of a trip
 def travel_time(df):
     print('\nCalculating The Total and Mean Travel Time...\n')
     start_time = time.time()
