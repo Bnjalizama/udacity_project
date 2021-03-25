@@ -5,7 +5,7 @@
 Udacity Git project - Programming for data Science Nanodegree Program
 
 ### Description
-This repository contains the Udacity's nanodegrees' projects completed by me.
+This repository contains information on the Udacity nano degree projects worked on during the course and completed by me.
 
 ### Files used
 bikeshare.py
