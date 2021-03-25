@@ -6,7 +6,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
 
-# User enters the city that wants to view the data.
+# User the city that wants to view the data.
 def get_city():
     """
     Asks user to specify a city, month, and day to analyze.
